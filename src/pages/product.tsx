@@ -1,11 +1,8 @@
-import { Fragment } from "react"
-
+import RandomProduct from '../components/RandomProduct'
 
 const Product = () => {
   return (
-    <Fragment>
-      <h1>Product</h1>
-    </Fragment>
+    <RandomProduct />
   )
 }
 
